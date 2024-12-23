@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c01414</color>
+    <color name="colorPrimaryDark">#941010</color>
+    <color name="colorAccent">#c01414</color>
+    <color name="texthintcolor">#b8b8b8</color>
+    <color name="circular_image_border">#ffffff</color>
+    <color name="circular_image_shadow">#464646</color>
+    <color name="white">#ffffff</color>
+    <color name="selecter">#d1d1d1</color>
+    <color name="grey_dark">#5A5151</color>
+    <color name="gray_text">#5c5c5c</color>
+    <color name="textcolor">#c01414</color>
+    <color name="formBgColor">#EAEAEA</color>
+
+    <color name="myPrimaryColor">#c01414</color>
+    <color name="myPrimaryDarkColor">#941010</color>
+    <color name="myAccentColor">#c01414</color>
+    <color name="myDrawerBackground">#FFF</color>
+    <color name="myWindowBackground">#FFF</color>
+    <color name="myTextPrimaryColor">#212121</color>
+    <color name="myNavigationColor">#000</color>
+    <color name="gray">#b9b9b9</color>
+    <color name="gray_light">#0c000000</color>
+    <color name="warringColor">#FFCC00</color>
+
+    <color name="pageBackgroundColor">#ededed</color>
+
+    <color name="badge_color">#FF0000</color>
+    <color name="main_color">#619F45</color>
+
+    <drawable name="pressed_gray">#0c000000</drawable>
+    <drawable name="selected_gray">#2c000000</drawable>
+    <color name="textgraylite">#c5c5c5</color>
+
+    // view pager color .////////
+    <color name="color_primary_blue">#ffffff</color>
+    <color name="color_primary_blue_dark">#ffffff</color>
+    <color name="color_accent_pink">#ffffff</color>
+    <color name="color_successfull">#1da513</color>
+    <color name="color_shipped">#2E64FE</color>
+    <color name="color_canceled">#9d9d9d</color>
+    <color name="color_order_invoiced">#FF7E00</color>
+    <color name="offred">#79221d</color>
+
+    <color name="verify_color_code">#12730e</color>
+    <array name="progress_colors">
+        <item>#c01414</item>
+    </array>
+
+    <array name="in_colors">
+        <item>#c01414</item>
+    </array>
+
+    <array name="progress_colors_new">
+        <item>#afa9a9</item>
+    </array>
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="table_header">#dddbdc</color>
+    <color name="table_content_bg">#f7f7f7</color>
+
+    <color name="color_tnc">#2E64FE</color>
+    <color name="offer_text_color">#000</color>
+    <color name="offer_text_color_green">#000</color>
+    <color name="offer_label_text_color">#fff</color>
+
+    <color name="edittext_grey">#aaaaaa</color>
+    <color name="red_color">#c01414</color>
+    <color name="green_color">#1da513</color>
+</resources>

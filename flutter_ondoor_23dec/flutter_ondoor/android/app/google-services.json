@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "69414575810",
+    "firebase_url": "https://ondoor-2542a.firebaseio.com",
+    "project_id": "ondoor-2542a",
+    "storage_bucket": "ondoor-2542a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69414575810:android:480644acc28a3182",
+        "android_client_info": {
+          "package_name": "com.ondoor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69414575810-b6n5s20v8mfv1h4krgrhdvu9sp35bqr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ondoor.app",
+            "certificate_hash": "106d6f95312a0faa7b5842811af7ac690a9a9740"
+          }
+        },
+        {
+          "client_id": "69414575810-dldmgqgar9mr40rnv3706lbnijo4u5ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ondoor.app",
+            "certificate_hash": "827f6c063ee185e81bb88d55f9b7433b4d60d9fc"
+          }
+        },
+        {
+          "client_id": "69414575810-ba2capuored2d5365vk9vkaj5to1nvoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy7V0h_4ZF2OS4AlV6s_faKRJE3AdVDWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69414575810-ba2capuored2d5365vk9vkaj5to1nvoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "69414575810-5mk7n7oeq5a09380np0skbc2s7pj2a3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ondoor.ondoorapp",
+                "app_store_id": "1076523777"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
